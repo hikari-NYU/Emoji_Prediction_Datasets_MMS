@@ -3,9 +3,7 @@
 This repository contains the datasets released in the paper *Emoji Prediction: Extensions and Benchmarking* at WISDOM '20, held in conjunction with KDD '20.  
 Please cite the paper if you use the datasets in your research.
 
-    Ma, Weicheng, Ruibo Liu, Lili Wang, and Soroush Vosoughi. 
-    “Emoji Prediction: Extensions and Benchmarking.” 
-    arXiv preprint arXiv:2007.07389 (2020).
+    Ma, Weicheng, Ruibo Liu, Lili Wang, and Soroush Vosoughi. “Emoji Prediction: Extensions and Benchmarking.” arXiv preprint arXiv:2007.07389 (2020).
 
     @article{ma2020emoji,
     title={Emoji Prediction: Extensions and Benchmarking},
